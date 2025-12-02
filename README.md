@@ -2,7 +2,6 @@
 - 👀 I have completed B.Tech in Computer Science and Engineering(CSE).
 - Open to work for an entry level position .
 - I have programming skills in Java and have fair knowledge in web technologies like HTML,CSS,JavaScript.
-- 🌱 I’m currently learning DSA.
 - 📫 How to reach me gogikarsaicharan1@gmail.com.
 
 
